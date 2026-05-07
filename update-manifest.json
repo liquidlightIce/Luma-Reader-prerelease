@@ -1,9 +1,9 @@
 {
-  "versionCode": 155,
-  "versionName": "0.1.155",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.155/Luma.Reader.v0.1.155.debug.apk",
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.155",
-  "title": "Luma Reader v0.1.155",
-  "notes": "Royal menos dorada y más rojo/negro/blanco; Jet Black más carbón, grafito y premium oscuro.",
-  "publishedAt": "2026-05-06T00:05:00Z"
+  "versionCode": 164,
+  "versionName": "0.1.164",
+  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.164/Luma.Reader.v0.1.164.debug.apk",
+  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.164",
+  "title": "Luma Reader v0.1.164",
+  "notes": "Primera version real del modo libro: paginador, renderer, selector SCROLL/BOOK, restore por pagina y fallback limpio a scroll.",
+  "publishedAt": "2026-05-06T23:59:00Z"
 }
