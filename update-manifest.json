@@ -1,9 +1,9 @@
 {
-  "versionCode": 164,
-  "versionName": "0.1.164",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.164/Luma.Reader.v0.1.164.debug.apk",
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.164",
-  "title": "Luma Reader v0.1.164",
-  "notes": "Primera version real del modo libro: paginador, renderer, selector SCROLL/BOOK, restore por pagina y fallback limpio a scroll.",
-  "publishedAt": "2026-05-06T23:59:00Z"
+  "versionCode": 165,
+  "versionName": "0.1.165",
+  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.165/Luma.Reader.v0.1.165.debug.apk",
+  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.165",
+  "title": "Luma Reader v0.1.165",
+  "notes": "Book mode now paginates the whole book instead of a single chapter, improves chapter navigation, and renders a more page-like reading surface.",
+  "publishedAt": "2026-05-07T01:20:00Z"
 }
