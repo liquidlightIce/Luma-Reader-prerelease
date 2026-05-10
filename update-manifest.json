@@ -1,9 +1,9 @@
 {
-  "versionCode": 166,
-  "versionName": "0.1.166",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.166/Luma.Reader.v0.1.166.debug.apk",
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.166",
-  "title": "Luma Reader v0.1.166",
-  "notes": "Book mode now gives the page real viewport height, reduces duplicate chrome, and exposes the Scroll / Book switch directly in the reader.",
-  "publishedAt": "2026-05-07T04:15:00Z"
+  "versionCode": 173,
+  "versionName": "0.1.173",
+  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.173/Luma.Reader.v0.1.173.debug.apk",
+  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.173",
+  "title": "Luma Reader v0.1.173",
+  "notes": "Further WCAG-oriented skin tuning for Royal, Jet Black, and Pastel Bloom after the reader menu cleanup.",
+  "publishedAt": "2026-05-10T05:05:00Z"
 }
