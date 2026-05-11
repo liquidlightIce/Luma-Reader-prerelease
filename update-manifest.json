@@ -1,9 +1,9 @@
 {
-  "notes": "Fixes BOOK TTS/page sync in spread mode and filters legacy dotted table-of-contents entries during EPUB import.",
-  "versionName": "0.1.191",
-  "publishedAt": "2026-05-11T14:40:31Z",
-  "versionCode": 191,
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.191",
-  "title": "Luma Reader v0.1.191",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.191/Luma.Reader.v0.1.191.debug.apk"
+  "notes": "Refinamiento visual del reader para la skin Grimoire dentro del modo libro.",
+  "versionName": "0.1.193",
+  "publishedAt": "2026-05-11T17:30:21Z",
+  "versionCode": 193,
+  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.193",
+  "title": "Luma Reader v0.1.193",
+  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.193/Luma.Reader.v0.1.193.debug.apk"
 }
