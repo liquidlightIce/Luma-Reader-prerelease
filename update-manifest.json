@@ -1,9 +1,9 @@
 {
-  "notes": "Immersive reader spread pass, tighter top taskbar/player, and real two-page landscape foundation.",
-  "versionName": "0.1.190",
-  "publishedAt": "2026-05-11T07:45:00Z",
-  "versionCode": 190,
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.190",
-  "title": "Luma Reader v0.1.190",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.190/Luma.Reader.v0.1.190.debug.apk"
+  "notes": "Fixes BOOK TTS/page sync in spread mode and filters legacy dotted table-of-contents entries during EPUB import.",
+  "versionName": "0.1.191",
+  "publishedAt": "2026-05-11T14:40:31Z",
+  "versionCode": 191,
+  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.191",
+  "title": "Luma Reader v0.1.191",
+  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.191/Luma.Reader.v0.1.191.debug.apk"
 }
