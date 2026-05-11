@@ -1,9 +1,9 @@
 {
-  "versionCode": 173,
-  "versionName": "0.1.173",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.173/Luma.Reader.v0.1.173.debug.apk",
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.173",
-  "title": "Luma Reader v0.1.173",
-  "notes": "Further WCAG-oriented skin tuning for Royal, Jet Black, and Pastel Bloom after the reader menu cleanup.",
-  "publishedAt": "2026-05-10T05:05:00Z"
+    "notes":  "Reader inmersivo más estable, onboarding persistente del modo libro y mejor seguimiento TTS en BOOK mode.",
+    "versionName":  "0.1.185",
+    "publishedAt":  "2026-05-11T05:50:12Z",
+    "versionCode":  185,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.185",
+    "title":  "Luma Reader v0.1.185",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.185/Luma.Reader.v0.1.185.debug.apk"
 }
