@@ -1,9 +1,1 @@
-{
-  "notes": "Stabilize prerelease signing with a fixed keystore so future updater installs stop failing with package conflicts, and keep the BOOK/TTS fixes from 0.1.200.",
-  "versionName": "0.1.201",
-  "publishedAt": "2026-05-18T15:30:00Z",
-  "versionCode": 201,
-  "detailsUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.201",
-  "title": "Luma Reader v0.1.201",
-  "apkUrl": "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.201/Luma.Reader.v0.1.201.debug.apk"
-}
+{"notes":"Stabilize BOOK mode and TTS handoff: reset playback cleanly when chapters auto-advance, skip non-playable chapters, start from the nearest playable page entry, and harden pagination to reduce clipped half-lines.","versionName":"0.1.206","publishedAt":"2026-05-19T02:50:00Z","versionCode":206,"detailsUrl":"https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.206","title":"Luma Reader v0.1.206","apkUrl":"https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.206/Luma.Reader.v0.1.206.debug.apk"}
