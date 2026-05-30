@@ -1,9 +1,9 @@
 {
-    "notes":  "Stabilize updater version comparison, polish skin contrast across reader, book, OCR, settings, dialogs, and navigation controls.",
-    "versionName":  "0.1.239",
-    "publishedAt":  "2026-05-24T08:41:01Z",
-    "versionCode":  239,
-    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.239",
-    "title":  "Luma Reader v0.1.239",
-    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.239/Luma.Reader.v0.1.239.debug.apk"
+    "notes":  "Fixes reader polish for testing: clearer mini-player action in portrait/book mode, compact book-mode onboarding, OCR punctuation cleanup for TTS/display artifacts, and improved Ocean book skin/player contrast.",
+    "versionName":  "0.1.241",
+    "publishedAt":  "2026-05-30T05:34:57Z",
+    "versionCode":  241,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.241",
+    "title":  "Luma Reader v0.1.241",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.241/Luma.Reader.v0.1.241.debug.apk"
 }
