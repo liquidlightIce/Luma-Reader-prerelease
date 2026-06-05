@@ -1,9 +1,9 @@
 {
-    "notes":  "Reader stability repair: compact portrait mode controls, stable book composition curtain, portrait side-tap navigation, more conservative TTS word highlighting, safer pagination to prevent clipped lines, and initial skin atmosphere details. Includes emulator QA and build verification.",
-    "versionName":  "0.1.255",
-    "publishedAt":  "2026-06-04T04:08:41Z",
-    "versionCode":  255,
-    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.255",
-    "title":  "Luma Reader v0.1.255",
-    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.255/Luma.Reader.v0.1.255.debug.apk"
+    "notes":  "Fix PDF import page cap: OCR/import now processes the real PDF page count instead of silently stopping at 80 pages. Progress labels will show the actual total, e.g. 1 of 809. Existing truncated imports should be reimported to recover missing pages.",
+    "versionName":  "0.1.256",
+    "publishedAt":  "2026-06-05T15:36:32Z",
+    "versionCode":  256,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.256",
+    "title":  "Luma Reader v0.1.256",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.256/Luma.Reader.v0.1.256.debug.apk"
 }
