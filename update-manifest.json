@@ -1,9 +1,9 @@
 {
-    "notes":  "Rework Ocean into a deeper premium ocean skin with darker glassy chrome, toned-down aqua accents, softer underwater waves and more readable book surfaces. Add a new Nautical skin as the warmer editorial book variant with parchment pages, navy frame, brass accents and nautical atmosphere.",
-    "versionName":  "0.1.259",
-    "publishedAt":  "2026-06-11T05:10:59Z",
-    "versionCode":  259,
-    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.259",
-    "title":  "Luma Reader v0.1.259",
-    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.259/Luma.Reader.v0.1.259.debug.apk"
+    "notes":  "Tune Ocean and related skins to avoid pale Material surfaces, improving atmospheric panels and contrast across Home, Settings, and reader chrome.",
+    "versionName":  "0.1.260",
+    "publishedAt":  "2026-06-11T05:39:57Z",
+    "versionCode":  260,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.260",
+    "title":  "Luma Reader v0.1.260",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.260/Luma.Reader.v0.1.260.debug.apk"
 }
