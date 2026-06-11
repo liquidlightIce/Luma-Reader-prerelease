@@ -1,9 +1,9 @@
 {
-    "notes":  "Introduce shared Luma skin visual tokens so book pages, reader controls, sidebar chips, chrome and player surfaces use one coherent skin system closer to the approved mock direction. Improves contrast separation between page ink and panel controls for Grimoire, JetBlack, Ocean, Forest and related skins.",
-    "versionName":  "0.1.258",
-    "publishedAt":  "2026-06-11T04:51:59Z",
-    "versionCode":  258,
-    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.258",
-    "title":  "Luma Reader v0.1.258",
-    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.258/Luma.Reader.v0.1.258.debug.apk"
+    "notes":  "Rework Ocean into a deeper premium ocean skin with darker glassy chrome, toned-down aqua accents, softer underwater waves and more readable book surfaces. Add a new Nautical skin as the warmer editorial book variant with parchment pages, navy frame, brass accents and nautical atmosphere.",
+    "versionName":  "0.1.259",
+    "publishedAt":  "2026-06-11T05:10:59Z",
+    "versionCode":  259,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.259",
+    "title":  "Luma Reader v0.1.259",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.259/Luma.Reader.v0.1.259.debug.apk"
 }
