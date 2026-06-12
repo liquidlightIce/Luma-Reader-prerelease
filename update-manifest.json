@@ -1,9 +1,9 @@
 {
-    "notes":  "Integra las correcciones de capas del lector en layouts de telefono y tablet, junto con la documentacion de arquitectura y el baseline estable de paginacion, TTS y skins.",
-    "versionName":  "0.1.267",
-    "publishedAt":  "2026-06-12T19:20:31Z",
-    "versionCode":  267,
-    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.267",
-    "title":  "Luma Reader v0.1.267",
-    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.267/Luma.Reader.v0.1.267.debug.apk"
+    "notes":  "Hotfix para la caida al abrir libros importados en tablet landscape. La version se recompilo completamente para eliminar clases Compose incompatibles del sidebar del lector; validada en landscape, modo Libro y portrait.",
+    "versionName":  "0.1.268",
+    "publishedAt":  "2026-06-12T20:44:00Z",
+    "versionCode":  268,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.268",
+    "title":  "Luma Reader v0.1.268",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.268/Luma.Reader.v0.1.268.debug.apk"
 }
