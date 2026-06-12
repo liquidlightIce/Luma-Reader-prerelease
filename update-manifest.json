@@ -1,9 +1,9 @@
 {
-    "notes":  "Remove the central page glow from book mode across all skins, clean up Ocean page paper, and soften the Ocean spread spine so the reading area stays clear.",
-    "versionName":  "0.1.262",
-    "publishedAt":  "2026-06-11T12:50:03Z",
-    "versionCode":  262,
-    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.262",
-    "title":  "Luma Reader v0.1.262",
-    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.262/Luma.Reader.v0.1.262.debug.apk"
+    "notes":  "Baseline estable previo al refactor: mejoras de paginacion y modo libro, sincronizacion y saneamiento TTS, gestos del lector, sistema visual de skins, importacion PDF/EPUB y actualizador interno.",
+    "versionName":  "0.1.266",
+    "publishedAt":  "2026-06-12T16:29:26Z",
+    "versionCode":  266,
+    "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.266",
+    "title":  "Luma Reader v0.1.266",
+    "apkUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/download/v0.1.266/Luma.Reader.v0.1.266.debug.apk"
 }
