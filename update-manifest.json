@@ -1,7 +1,7 @@
 {
     "notes":  "Baseline estable previo al refactor: mejoras de paginacion y modo libro, sincronizacion y saneamiento TTS, gestos del lector, sistema visual de skins, importacion PDF/EPUB y actualizador interno.",
     "versionName":  "0.1.266",
-    "publishedAt":  "2026-06-12T16:29:26Z",
+    "publishedAt":  "2026-06-12T16:32:11Z",
     "versionCode":  266,
     "detailsUrl":  "https://github.com/liquidlightIce/Luma-Reader-prerelease/releases/tag/v0.1.266",
     "title":  "Luma Reader v0.1.266",
